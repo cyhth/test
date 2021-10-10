@@ -3,6 +3,10 @@ user01 write line02
 user01 write line03
 user01 write line04
 Version 2.0 Complete!
+
 user01 write new line 
 user01 write new line
 user01 write new line
+
+user01 repaired bug!
+
